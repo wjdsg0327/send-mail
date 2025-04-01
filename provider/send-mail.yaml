@@ -1,0 +1,17 @@
+identity:
+  author: wjdsg
+  name: send-mail
+  label:
+    en_US: send-mail
+    zh_Hans: send-mail
+    pt_BR: send-mail
+  description:
+    en_US: send main
+    zh_Hans: send main
+    pt_BR: send main
+  icon: icon.svg
+tools:
+  - tools/send-mail.yaml
+extra:
+  python:
+    source: provider/send-mail.py
