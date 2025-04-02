@@ -1,14 +1,14 @@
 identity:
-  name: send-mail
+  name: 163-smtp-send-mail
   author: wjdsg
   label:
     en_US: 163 e-mails para enviar um e-mail
-    zh_Hans: 163邮箱发送邮件
+    zh_Hans: 163SMTP邮件发送
     pt_BR: send-mail
 description:
   human:
     en_US: 163 e-mails para enviar um e-mail
-    zh_Hans: 163邮箱发送邮件
+    zh_Hans: 163SMTP邮件发送
     pt_BR: 163 e-mails para enviar um e-mail
   llm: 163 e-mails para enviar um e-mail
 parameters:
