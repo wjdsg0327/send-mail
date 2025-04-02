@@ -1,14 +1,14 @@
 identity:
   author: wjdsg
-  name: send-mail
+  name: 163-smtp-send-mail
   label:
-    en_US: send-mail
-    zh_Hans: send-mail
-    pt_BR: send-mail
+    en_US: 163 SMTP Mail Sender
+    zh_Hans: 163SMTP邮件发送
+    pt_BR: envio de email 163SMTP
   description:
-    en_US: send main
-    zh_Hans: send main
-    pt_BR: send main
+    en_US: 163 SMTP Mail Sender
+    zh_Hans: 163SMTP邮件发送
+    pt_BR: envio de email 163SMTP
   icon: icon.svg
 tools:
   - tools/send-mail.yaml

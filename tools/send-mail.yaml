@@ -4,12 +4,12 @@ identity:
   label:
     en_US: 163 e-mails para enviar um e-mail
     zh_Hans: 163SMTP邮件发送
-    pt_BR: send-mail
+    pt_BR: envio de email 163SMTP
 description:
   human:
     en_US: 163 e-mails para enviar um e-mail
     zh_Hans: 163SMTP邮件发送
-    pt_BR: 163 e-mails para enviar um e-mail
+    pt_BR: envio de email 163SMTP
   llm: 163 e-mails para enviar um e-mail
 parameters:
   - name: username_send
@@ -31,11 +31,11 @@ parameters:
     label:
       en_US: AUTHORIZE CODE
       zh_Hans: 授权码
-      pt_BR: AUTHORIZE CODE
+      pt_BR: CODE DE AUTORIZAÇÃO
     human_description:
       en_US: AUTHORIZE CODE
       zh_Hans: 授权码
-      pt_BR: AUTHORIZE CODE
+      pt_BR: CODE DE AUTORIZAÇÃO
     llm_description: AUTHORIZE CODE
     form: llm
   - name: username_recv
@@ -44,11 +44,11 @@ parameters:
     label:
       en_US: Recipient mailbox, multiple mailboxes separated by commas
       zh_Hans: 收件人邮箱，多个邮箱逗号隔开
-      pt_BR: Recipient mailbox, multiple mailboxes separated by commas
+      pt_BR: Recipiente de correio electrónico, endereços de correio electrónico múltiplos separados por vírgulas
     human_description:
       en_US: Recipient mailbox, multiple mailboxes separated by commas
       zh_Hans: 收件人邮箱，多个邮箱逗号隔开
-      pt_BR: Recipient mailbox, multiple mailboxes separated by commas
+      pt_BR: Recipiente de correio electrónico, endereços de correio electrónico múltiplos separados por vírgulas
     llm_description: Recipient mailbox, multiple mailboxes separated by commas
     form: llm
   - name: subject
@@ -57,11 +57,11 @@ parameters:
     label:
       en_US: subject
       zh_Hans: 主题
-      pt_BR: subject
+      pt_BR: tema
     human_description:
       en_US: subject
       zh_Hans: 主题
-      pt_BR: subject
+      pt_BR: tema
     llm_description: subject
     form: llm
   - name: content
@@ -70,11 +70,11 @@ parameters:
     label:
       en_US: content
       zh_Hans: 内容
-      pt_BR: content
+      pt_BR: conteúdo
     human_description:
       en_US: content
       zh_Hans: 内容
-      pt_BR: content
+      pt_BR: conteúdo
     llm_description: 内容
     form: llm
 extra:
